@@ -15,7 +15,7 @@ export default function Home() {
                 </div>
                 <div className="-z-100 absolute inset-0 bg-black/60"></div>
             </div>
-            <div className="max-w-6xl text-center sm:text-start px-8 pt-12 sm:pt-16 mx-auto flex flex-col md:flex-row justify-between gap-16 md:gap-0 xl:gap-16">
+            <div className="max-w-6xl text-white text-center sm:text-start px-8 pt-12 sm:pt-16 mx-auto flex flex-col md:flex-row justify-between gap-16 md:gap-0 xl:gap-16">
                 <div className="flex flex-col gap-4">
                     <h1 className="text-4xl leading-normal">
                         Düşünərək tanış ol. <p>Hiss edərək bağlan</p>
